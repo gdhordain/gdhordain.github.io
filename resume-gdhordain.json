@@ -1,0 +1,218 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Gautier Dhordain",
+    "label": "Full stack developer",
+    "image": "https://media-exp1.licdn.com/dms/image/C4D03AQFr_-KlvfdZHA/profile-displayphoto-shrink_800_800/0/1619424454148?e=1645660800&v=beta&t=VKrMfu6oQv0ZCYluMPGTbtZizupEVnIetUiiG4hPLNQ",
+    "email": "gautier@dhordain.eu",
+    "phone": "+33 (0)6 86 72 07 74",
+    "summary": "I am a full stack developer who worked in various environment, from early stage startup to big corporations, with B2B & B2C business. I held several positions, always in development.<br/>What do I like the most ? To bring value to customers using the product I am working on.<br/>What I am looking for ? To help companies to deliver better mobile experiences.",
+    "location": {
+      "address": "677 route nationale",
+      "postalCode": "59830",
+      "city": "Bachy",
+      "countryCode": "FR",
+      "region": "Nord"
+    },
+    "profiles": [
+      {
+        "url": "https://github.com/gdhordain",
+        "username": "gdhordain",
+        "network": "github"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ACoAAATbfwQBS86szJaQ4ekm2ZsSQfPBUtFYcEM",
+        "url": "https://www.linkedin.com/in/ACoAAATbfwQBS86szJaQ4ekm2ZsSQfPBUtFYcEM/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "summary": "MooM is a platform dedicated to ease circular economy: give a second life to your goods, find a repair or collection service.<br/>I worked on all the layers: mainly on the mobile app, secondarily on the backend & search capabilities. Flutter discovery was a blast!",
+      "website": "https://www.moom.app",
+      "name": "MooM Planet",
+      "location": "Roubaix, France",
+      "position": "Senior full stack developer",
+      "startDate": "2020-11-01",
+      "endDate": "2021-12-22",
+      "highlights": [
+        "Mobile: Flutter, BLoC pattern, UX",
+        "Backend: Java, Spring, Reactor",
+        "Data: Postgres, Elasticsearch",
+        "Auth: OIDC, Hydra",
+        "Deployment: Kubernetes"
+      ]
+    },
+    {
+      "summary": "Auchan.fr is a french multinational retail group's ecommerce website. I was the tech lead of a team focused on the search feature then joined as tech lead another team focused on the customer (authentication, privacy, loyalty, ...) & GDPR technical point of contact. We built & ran several backend & frontend microservices, hosted on GKE. I enjoyed being a bridge between teams, with transversal missions.",
+      "website": "https://www.auchan.fr",
+      "name": "Auchan Retail France",
+      "location": "Villeneuve d'Ascq, France",
+      "position": "Tech lead",
+      "startDate": "2018-11-01",
+      "endDate": "2020-10-31",
+      "highlights": [
+        "Backend: Java, Spring, Reactor",
+        "Data: Postgres, Elasticsearch",
+        "Auth: OIDC, Keycloak",
+        "Deployment: Kubernetes"
+      ]
+    },
+    {
+      "summary": "Axon Insight AG offers a business network intelligence solution as SaaS or on premise. We worked in a multi-cultural european team, with direct relation with an offshore team based in Vietnam. I worked on the network batch processing and on the full-text search capabilities of the solution. I had the opportunity to go twice in Vietnam to organize a hackaton with our Vietnamese coworkers.",
+      "website": "https://www.axoninsight.com",
+      "name": "Axon Insight AG",
+      "location": "Luzern, Switzerland",
+      "position": "Senior backend developer",
+      "startDate": "2015-09-03",
+      "endDate": "2018-10-31",
+      "highlights": [
+        "Backend: Java, Spring",
+        "Data: Postgres, Elasticsearch, Neo4J, Cassandra",
+        "Processing: Spring batch, Spark, Python",
+        "Auth: OIDC, Keycloak"
+      ]
+    },
+    {
+      "summary": "Nuukik offers a recommendation engine SaaS. We worked in close colaboration with the CTO to build and run a successful product from the early prototype. I helped the team to grow, from size and maturity perspective. I also wrote plugins for major ecommerce platforms (Magento, Prestashop, Demandware, ...) to ease customer onboarding.",
+      "website": "https://www.nuukik.com",
+      "name": "Nuukik",
+      "location": "Villeneuve d'Ascq, France",
+      "position": "Lead developer",
+      "startDate": "2013-07-01",
+      "endDate": "2015-09-02",
+      "highlights": [
+        "Backend: Java, Spring",
+        "Data: Postgres, Elasticsearch",
+        "Processing: Kettle, Hadoop",
+        "Auth: OIDC, Keycloak"
+      ]
+    },
+    {
+      "summary": "I worked on Oracle Service Bus to allow the company exogenous systems to talk to each others. I also took part of the team responsible of a custom OSB monitoring tool to increase the visibility and trust of the service.",
+      "website": "https://www.3suisses.fr",
+      "name": "3 Suisses",
+      "location": "Croix, France",
+      "position": "SOA developer",
+      "startDate": "2011-11-01",
+      "endDate": "2013-06-30",
+      "highlights": [
+        "Backend: Java, Spring",
+        "Data: Oracle",
+        "Processing: OSB"
+      ]
+    },
+    {
+      "summary": "For a european freight exchange, I was part of the backend team. My primary role was to work on the scalability of the platform. I was heaviliy involved in the data layer to increase query responsivness and pertinence.",
+      "website": "https://www.worldline.com",
+      "name": "Atow Wordline",
+      "location": "Noyelles-les-Seclin, France",
+      "position": "Junior backend developer",
+      "startDate": "2008-02-01",
+      "endDate": "2011-10-31",
+      "highlights": [
+        "Backend: Java",
+        "Data: MySql",
+        "Processing: ODI"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "summary": "Town councillor of Bachy (around 1800 inhabitants), involved in cultural topics",
+      "website": "https://www.mairie-bachy.fr/",
+      "name": "Town council of Bachy",
+      "location": "Bachy",
+      "position": "Town councillor",
+      "startDate": "2020-03-22"
+    },
+    {
+      "summary": "Ch'ti JUG is a Java User Group based in Lille, north of France",
+      "website": "https://www.chtijug.org/",
+      "name": "Ch'ti JUG",
+      "location": "Lille",
+      "position": "Organisation support",
+      "startDate": "2011-04-01"
+    }
+  ],
+  "education": [
+    {
+      "startDate": "2003-09-01",
+      "endDate": "2007-08-31",
+      "area": "Software Engineering",
+      "studyType": "Engineering degree",
+      "institution": "Ecole des Mines de Douai"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Blood donor diploma - Gold insigna",
+      "awarder": "Etablissement français du sang",
+      "date": "2021"
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Code quality",
+      "level": "",
+      "keywords": [
+        "Clean code",
+        "TDD"
+      ]
+    },
+    {
+      "name": "Mobile",
+      "level": "",
+      "keywords": [
+        "Flutter",
+        "UX"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": [
+        "Spring",
+        "Reactor"
+      ]
+    },
+    {
+      "name": "Data storage",
+      "level": "",
+      "keywords": [
+        "Postgres",
+        "Elasticsearch"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "manga"
+    },
+    {
+      "name": "woodcraft"
+    },
+    {
+      "name": "track driving"
+    }
+  ],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
