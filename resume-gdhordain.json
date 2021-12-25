@@ -3,7 +3,7 @@
   "basics": {
     "name": "Gautier Dhordain",
     "label": "Full stack developer",
-    "image": "https://media-exp1.licdn.com/dms/image/C4D03AQFr_-KlvfdZHA/profile-displayphoto-shrink_800_800/0/1619424454148?e=1645660800&v=beta&t=VKrMfu6oQv0ZCYluMPGTbtZizupEVnIetUiiG4hPLNQ",
+    "image": "https://gdhordain.github.io/resume.jpeg",
     "email": "gautier@dhordain.eu",
     "phone": "+33 (0)6 86 72 07 74",
     "summary": "I am a full stack developer who worked in various environment, from early stage startup to big corporations, with B2B & B2C business. I held several positions, always in development.<br/>What do I like the most ? To bring value to customers using the product I am working on.<br/>What I am looking for ? To help companies to deliver better mobile experiences.",
@@ -130,7 +130,7 @@
     {
       "organization": "Ch'ti JUG",
       "url": "https://www.chtijug.org",
-      "summary": "Ch'ti JUG is a Java User Group based in Lille, north of France. We host 1 session per month (before COVID-19), 70 to 200 attendees, with 3000 members.",
+      "summary": "Ch'ti JUG is a Java User Group based in Lille, north of France.<br/>We host 1 session per month (before COVID-19), 70 to 200 attendees, with 3000 members.",
       "location": "Lille",
       "position": "Organisation support",
       "startDate": "2011-04-01"
