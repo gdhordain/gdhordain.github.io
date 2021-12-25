@@ -16,14 +16,14 @@
     },
     "profiles": [
       {
-        "url": "https://github.com/gdhordain",
+        "network": "github",
         "username": "gdhordain",
-        "network": "github"
+        "url": "https://github.com/gdhordain"
       },
       {
         "network": "LinkedIn",
-        "username": "ACoAAATbfwQBS86szJaQ4ekm2ZsSQfPBUtFYcEM",
-        "url": "https://www.linkedin.com/in/ACoAAATbfwQBS86szJaQ4ekm2ZsSQfPBUtFYcEM/"
+        "username": "gautier-dhordain-8b036023",
+        "url": "https://www.linkedin.com/in/gautier-dhordain-8b036023"
       }
     ]
   },
@@ -32,7 +32,7 @@
       "summary": "MooM is a platform dedicated to ease circular economy: give a second life to your goods, find a repair or collection service.<br/>I worked on all the layers: mainly on the mobile app, secondarily on the backend & search capabilities. Flutter discovery was a blast!",
       "website": "https://www.moom.app",
       "name": "MooM Planet",
-      "location": "Roubaix, France",
+      "location": "Remote, Roubaix, France",
       "position": "Senior full stack developer",
       "startDate": "2020-11-01",
       "endDate": "2021-12-22",
@@ -60,10 +60,10 @@
       ]
     },
     {
-      "summary": "Axon Insight AG offers a business network intelligence solution as SaaS or on premise. We worked in a multi-cultural european team, with direct relation with an offshore team based in Vietnam. I worked on the network batch processing and on the full-text search capabilities of the solution. I had the opportunity to go twice in Vietnam to organize a hackaton with our Vietnamese coworkers.",
+      "summary": "Axon Insight AG offers a business network intelligence solution as SaaS or on premise. We worked in a multi-cultural european remote team, with direct relation with an offshore team based in Vietnam. I worked on the network batch processing and on the full-text search capabilities of the solution. I had the opportunity to go twice in Vietnam to organize a hackaton with our Vietnamese coworkers.",
       "website": "https://www.axoninsight.com",
       "name": "Axon Insight AG",
-      "location": "Luzern, Switzerland",
+      "location": "Remote, Luzern, Switzerland",
       "position": "Senior backend developer",
       "startDate": "2015-09-03",
       "endDate": "2018-10-31",
@@ -86,7 +86,7 @@
         "Backend: Java, Spring",
         "Data: Postgres, Elasticsearch",
         "Processing: Kettle, Hadoop",
-        "Auth: OIDC, Keycloak"
+        "Auth: Spring Security"
       ]
     },
     {
@@ -120,17 +120,17 @@
   ],
   "volunteer": [
     {
-      "summary": "Town councillor of Bachy (around 1800 inhabitants), involved in cultural topics",
-      "website": "https://www.mairie-bachy.fr/",
-      "name": "Town council of Bachy",
+      "organization": "Town council of Bachy",
+      "url": "https://www.mairie-bachy.fr",
+      "summary": "In a city of 1800 inhabitants, involved in cultural topics",
       "location": "Bachy",
       "position": "Town councillor",
       "startDate": "2020-03-22"
     },
     {
-      "summary": "Ch'ti JUG is a Java User Group based in Lille, north of France",
-      "website": "https://www.chtijug.org/",
-      "name": "Ch'ti JUG",
+      "organization": "Ch'ti JUG",
+      "url": "https://www.chtijug.org",
+      "summary": "Ch'ti JUG is a Java User Group based in Lille, north of France. We host 1 session per month (before COVID-19), 70 to 200 attendees, with 3000 members.",
       "location": "Lille",
       "position": "Organisation support",
       "startDate": "2011-04-01"
@@ -147,7 +147,7 @@
   ],
   "awards": [
     {
-      "title": "Blood donor diploma - Gold insigna",
+      "title": "Blood donor diploma - Gold insigna (more than 100)",
       "awarder": "Etablissement français du sang",
       "date": "2021"
     }
@@ -200,13 +200,18 @@
   ],
   "interests": [
     {
-      "name": "manga"
+      "name": "Reading",
+      "keywords": [
+        "Manga",
+        "Science-fiction",
+        "Heroic fantasy"
+      ]
     },
     {
-      "name": "woodcraft"
+      "name": "Woodcraft"
     },
     {
-      "name": "track driving"
+      "name": "Track driving"
     }
   ],
   "references": [],
