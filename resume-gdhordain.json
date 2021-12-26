@@ -6,7 +6,7 @@
     "image": "https://gdhordain.github.io/resume.jpeg",
     "email": "gautier@dhordain.eu",
     "phone": "+33 (0)6 86 72 07 74",
-    "summary": "I am a full stack developer who worked in various environment, from early stage startup to big corporations, with B2B & B2C business. I held several positions, always in development.<br/>What do I like the most ? To bring value to customers using the product I am working on.<br/>What I am looking for ? To help companies to deliver better mobile experiences.",
+    "summary": "I am a full stack developer who worked in various environments, from early stage startups to big corporations, with B2B & B2C business. I held several positions, always in development.<br/>What do I like the most? To bring value to customers using the product I am working on.<br/>What I am looking for? To help companies to deliver better mobile experiences.",
     "location": {
       "address": "677 route nationale",
       "postalCode": "59830",
@@ -16,7 +16,7 @@
     },
     "profiles": [
       {
-        "network": "github",
+        "network": "GitHub",
         "username": "gdhordain",
         "url": "https://github.com/gdhordain"
       },
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "summary": "Auchan.fr is a french multinational retail group's ecommerce website. I was the tech lead of a team focused on the search feature then joined as tech lead another team focused on the customer (authentication, privacy, loyalty, ...) & GDPR technical point of contact. We built & ran several backend & frontend microservices, hosted on GKE. I enjoyed being a bridge between teams, with transversal missions.",
+      "summary": "Auchan.fr is a French multinational retail group's ecommerce website. I was the tech lead of a team focused on the search feature then joined as the tech lead of another team focused on the customer (authentication, privacy, loyalty, ...) & GDPR technical point of contact. We built & ran several backend & frontend microservices, hosted on GKE. I enjoyed being a bridge between teams, with transversal missions.",
       "website": "https://www.auchan.fr",
       "name": "Auchan Retail France",
       "location": "Villeneuve d'Ascq, France",
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "summary": "Axon Insight AG offers a business network intelligence solution as SaaS or on premise. We worked in a multi-cultural european remote team, with direct relation with an offshore team based in Vietnam. I worked on the network batch processing and on the full-text search capabilities of the solution. I had the opportunity to go twice in Vietnam to organize a hackaton with our Vietnamese coworkers.",
+      "summary": "Axon Insight AG offers a business network intelligence solution as SaaS or on premise. We worked in a multi-cultural European remote team, with direct relation with an offshore team based in Vietnam. I worked on the network batch processing and on the full-text search capabilities of the solution. I had the opportunity to go to Vietnam twice to organize a hackathon with our Vietnamese coworkers.",
       "website": "https://www.axoninsight.com",
       "name": "Axon Insight AG",
       "location": "Remote, Luzern, Switzerland",
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "summary": "For a european freight exchange, I was part of the backend team. My primary role was to work on the scalability of the platform. I was heaviliy involved in the data layer to increase query responsivness and pertinence.",
+      "summary": "For a European freight exchange, I was part of the backend team. My primary role was to work on the scalability of the platform. I was heavily involved in the data layer to increase query responsiveness and pertinence.",
       "website": "https://www.worldline.com",
       "name": "Atow Wordline",
       "location": "Noyelles-les-Seclin, France",
@@ -212,6 +212,13 @@
     },
     {
       "name": "Track driving"
+    },
+    {
+      "name": "Video games",
+      "keywords": [
+        "CRPG",
+        "Hack'n'Slash"
+      ]
     }
   ],
   "references": [],
