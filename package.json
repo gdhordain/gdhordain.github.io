@@ -2,7 +2,7 @@
   "name": "resume-gdhordain",
   "description": "Gautier Dhordain's resume",
   "private": true,
-  "version": "0.0.4",
+  "version": "0.0.5",
   "scripts": {
     "export-pdf": "resume export -r resume-gdhordain.json -t ./node_modules/jsonresume-theme-kendall resume-gdhordain.pdf",
     "export-html": "resume export -r resume-gdhordain.json -t ./node_modules/jsonresume-theme-kendall index.html"
