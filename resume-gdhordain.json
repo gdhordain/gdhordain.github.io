@@ -37,7 +37,7 @@
       "startDate": "2020-11-01",
       "endDate": "2021-12-22",
       "highlights": [
-        "Mobile: Flutter, BLoC pattern, UX",
+        "Mobile: Flutter, BLoC pattern, UX, Fastlane",
         "Backend: Java, Spring, Reactor",
         "Data: Postgres, Elasticsearch",
         "Auth: OIDC, Hydra",
@@ -168,7 +168,8 @@
       "level": "",
       "keywords": [
         "Flutter",
-        "UX"
+        "UX",
+        "Fastlane"
       ]
     },
     {
