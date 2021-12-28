@@ -6,7 +6,7 @@
     "image": "https://gdhordain.github.io/resume.jpeg",
     "email": "gautier@dhordain.eu",
     "phone": "+33 (0)6 86 72 07 74",
-    "summary": "I am a full stack developer who worked in various environments, from early stage startups to big corporations, with B2B & B2C business. I held several positions, always in development.<br/>What do I like the most? To bring value to customers using the product I am working on.<br/>What I am looking for? To help companies to deliver better mobile experiences.",
+    "summary": "I am a full stack developer who worked in various environments, from early stage startups to big corporations, with B2B & B2C business, on-site & remote. I held several positions, always in development.<br/>What do I like the most? To bring value to customers using the product I am working on.<br/>What I am looking for? To help companies to deliver better mobile experiences.",
     "location": {
       "address": "677 route nationale",
       "postalCode": "59830",
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "summary": "Nuukik offers a recommendation engine SaaS. We worked in close colaboration with the CTO to build and run a successful product from the early prototype. I helped the team to grow, from size and maturity perspective. I also wrote plugins for major ecommerce platforms (Magento, Prestashop, Demandware, ...) to ease customer onboarding.",
+      "summary": "Nuukik offers a recommendation engine SaaS. We worked in close colaboration with the CTO to build and run a successful product from an early prototype. I helped the team to grow, from size and maturity perspective. I also wrote plugins for major ecommerce platforms (Magento, Prestashop, Demandware, ...) to ease customer onboarding.",
       "website": "https://www.nuukik.com",
       "name": "Nuukik",
       "location": "Villeneuve d'Ascq, France",
@@ -185,6 +185,16 @@
       "keywords": [
         "Postgres",
         "Elasticsearch"
+      ]
+    },
+    {
+      "name": "Soft skills",
+      "level": "",
+      "keywords": [
+        "Autonomy",
+        "Mentoring",
+        "Versatility",
+        "Kindness"
       ]
     }
   ],
