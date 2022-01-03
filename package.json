@@ -2,10 +2,12 @@
   "name": "resume-gdhordain",
   "description": "Gautier Dhordain's résumé",
   "private": true,
-  "version": "0.0.8",
+  "version": "0.0.9",
   "scripts": {
-    "export-pdf": "resume export -r resume-gdhordain.json -t ./node_modules/jsonresume-theme-kendall resume-gdhordain.pdf",
-    "export-html": "resume export -r resume-gdhordain.json -t ./node_modules/jsonresume-theme-kendall index.html"
+    "export-en-html": "resume export -r resume-gdhordain-en.json -t ./node_modules/jsonresume-theme-kendall index.html",
+    "export-en-pdf": "resume export -r resume-gdhordain-en.json -t ./node_modules/jsonresume-theme-kendall resume-gdhordain.pdf",
+    "export-fr-html": "resume export -r resume-gdhordain-fr.json -t ./node_modules/jsonresume-theme-kendall index-fr.html",
+    "export-fr-pdf": "resume export -r resume-gdhordain-fr.json -t ./node_modules/jsonresume-theme-kendall cv-gdhordain.pdf"
   },
   "dependencies": {
     "jsonresume-theme-kendall": "^0.2.0"

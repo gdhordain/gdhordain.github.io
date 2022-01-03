@@ -16,6 +16,11 @@
     },
     "profiles": [
       {
+        "network": "",
+        "username": "🇫🇷 curriculum vitae",
+        "url": "https://gdhordain.github.io/index-fr.html"
+      },
+      {
         "network": "GitHub",
         "username": "gdhordain",
         "url": "https://github.com/gdhordain"
@@ -30,7 +35,7 @@
   "work": [
     {
       "summary": "MooM is a platform dedicated to ease circular economy: give a second life to your goods, find a repair or collection service.<br/>I worked on all the layers: mainly on the mobile app, secondarily on the backend & search capabilities. Flutter discovery was a blast!",
-      "website": "https://www.moom.app",
+      "url": "https://www.moom.app",
       "name": "MooM Planet",
       "location": "Remote, Roubaix, France",
       "position": "Senior full stack developer",
@@ -46,7 +51,7 @@
     },
     {
       "summary": "Auchan.fr is a French multinational retail group's ecommerce website. I was the tech lead of a team focused on the search feature then joined as the tech lead of another team focused on the customer (authentication, privacy, loyalty, ...) & GDPR technical point of contact. We built & ran several backend & frontend microservices, hosted on GKE. I enjoyed being a bridge between teams, with transversal missions.",
-      "website": "https://www.auchan.fr",
+      "url": "https://www.auchan.fr",
       "name": "Auchan Retail France",
       "location": "Villeneuve d'Ascq, France",
       "position": "Tech lead",
@@ -61,7 +66,7 @@
     },
     {
       "summary": "Axon Insight AG offers a business network intelligence solution as SaaS or on premise. We worked in a multi-cultural European remote team, with direct relation with an offshore team based in Vietnam. I worked on the network batch processing and on the full-text search capabilities of the solution. I had the opportunity to go to Vietnam twice to organize a hackathon with our Vietnamese coworkers.",
-      "website": "https://www.axoninsight.com",
+      "url": "https://www.axoninsight.com",
       "name": "Axon Insight AG",
       "location": "Remote, Luzern, Switzerland",
       "position": "Senior backend developer",
@@ -76,7 +81,7 @@
     },
     {
       "summary": "Nuukik offers a recommendation engine SaaS. We worked in close colaboration with the CTO to build and run a successful product from an early prototype. I helped the team to grow, from size and maturity perspective. I also wrote plugins for major ecommerce platforms (Magento, Prestashop, Demandware, ...) to ease customer onboarding.",
-      "website": "https://www.nuukik.com",
+      "url": "https://www.nuukik.com",
       "name": "Nuukik",
       "location": "Villeneuve d'Ascq, France",
       "position": "Lead developer",
@@ -91,7 +96,7 @@
     },
     {
       "summary": "I worked on Oracle Service Bus to allow the company exogenous systems to talk to each others. I also took part of the team responsible of a custom OSB monitoring tool to increase the visibility and trust of the service.",
-      "website": "https://www.3suisses.fr",
+      "url": "https://www.3suisses.fr",
       "name": "3 Suisses",
       "location": "Croix, France",
       "position": "SOA developer",
@@ -105,7 +110,7 @@
     },
     {
       "summary": "For a European freight exchange, I was part of the backend team. My primary role was to work on the scalability of the platform. I was heavily involved in the data layer to increase query responsiveness and pertinence.",
-      "website": "https://www.worldline.com",
+      "url": "https://www.worldline.com",
       "name": "Atos Wordline",
       "location": "Noyelles-les-Seclin, France",
       "position": "Junior backend developer",
@@ -225,8 +230,9 @@
       "name": "Track driving"
     },
     {
-      "name": "Video games",
+      "name": "Games",
       "keywords": [
+        "Boardgames",
         "CRPG",
         "Hack'n'Slash"
       ]

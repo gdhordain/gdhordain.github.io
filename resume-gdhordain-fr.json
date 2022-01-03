@@ -1,0 +1,247 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Gautier Dhordain",
+    "label": "Développeur full stack",
+    "image": "https://gdhordain.github.io/resume.jpeg",
+    "email": "gautier@dhordain.eu",
+    "phone": "+33 (0)6 86 72 07 74",
+    "summary": "Je suis un développeur full stack ayant travaillé dans des environnements variés: de startups aux grandes entreprises, avec une cible B2C ou B2B, en présentiel ou à distance. J'ai occupé plusieurs postes, toujours dans le développement logiciel.<br/>Mon objectif ? Apporter de la plus-value aux utilisateurs des produits auxquels je participe.<br/>Je souhaite continuer à aider des entreprises à fournir la meilleure expérience sur application mobile.",
+    "location": {
+      "address": "677 route nationale",
+      "postalCode": "59830",
+      "city": "Bachy",
+      "countryCode": "FR",
+      "region": "Nord"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "🇬🇧 résumé",
+        "url": "https://gdhordain.github.io/index.html"
+      },
+      {
+        "network": "GitHub",
+        "username": "gdhordain",
+        "url": "https://github.com/gdhordain"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "gautier-dhordain-8b036023",
+        "url": "https://www.linkedin.com/in/gautier-dhordain-8b036023"
+      }
+    ]
+  },
+  "work": [
+    {
+      "summary": "MooM est une plateforme dédiée à la seconde vie des biens de consommations: réparation, collecte, vente, don.<br/>J'ai travaillé sur la totalité de la stack: majoritairement sur l'application mobile, sans oublier le backend et les algorithmes de recherche. La découverte du framework Flutter a été une révélation.",
+      "url": "https://www.moom.app",
+      "name": "MooM Planet",
+      "location": "Remote, Roubaix, France",
+      "position": "Développeur full stack senior",
+      "startDate": "2020-11-01",
+      "endDate": "2021-12-22",
+      "highlights": [
+        "Mobile: Flutter, BLoC pattern, UX, Fastlane",
+        "Backend: Java, Spring, Reactor",
+        "Data: Postgres, Elasticsearch",
+        "Auth: OIDC, Hydra",
+        "Deployment: Kubernetes"
+      ]
+    },
+    {
+      "summary": "Auchan.fr est un acteur majeur du e-commerce Français. J'ai occupé le poste de tech lead au sein de l'équipe en charge du moteur de recherche. J'ai ensuite rejoint l'équipe en charge de l'espace client, toujours en tant que tech lead, ainsi que le role d'interlocuteur technique RGPD sur le périmètre du site. Nous avons construit et exploité de nombreux microservices frontend & backend, hébergés sur GKE. J'ai apprécié être un pont entre les différentes équipes avec des missions transverses.",
+      "url": "https://www.auchan.fr",
+      "name": "Auchan Retail France",
+      "location": "Villeneuve d'Ascq, France",
+      "position": "Tech lead",
+      "startDate": "2018-11-01",
+      "endDate": "2020-10-31",
+      "highlights": [
+        "Backend: Java, Spring, Reactor",
+        "Data: Postgres, Elasticsearch",
+        "Auth: OIDC, Keycloak",
+        "Deployment: Kubernetes"
+      ]
+    },
+    {
+      "summary": "Axon Insight AG propose une service de prospection basé sur le réseau professionnel, SaaS ou on-premise. Nous formions une équipe multi-culturelle Européenne à distance, en relation étroite avec une équipe offshore basé au Vietnam. J'ai travaillé sur le traitement du réseau professionnel ainsi que sur la recherche full-text. J'ai aussi eu l'opportunité d'aller - par deux fois - au Vietnam afin d'organiser un hackathon avec nos collègues Vietnamiens.",
+      "url": "https://www.axoninsight.com",
+      "name": "Axon Insight AG",
+      "location": "Remote, Luzern, Switzerland",
+      "position": "Développeur backend senior",
+      "startDate": "2015-09-03",
+      "endDate": "2018-10-31",
+      "highlights": [
+        "Backend: Java, Spring",
+        "Data: Postgres, Elasticsearch, Neo4J, Cassandra",
+        "Processing: Spring batch, Spark, Python",
+        "Auth: OIDC, Keycloak"
+      ]
+    },
+    {
+      "summary": "Nuukik propose un moteur de recommandation en SaaS. Nous travaillions en collaboration avec le CTO afin d'industrialiser un premier prototype, construire un service et l'exploiter. J'ai aidé l'équipe à grandir, aussi bien en effectif qu'en maturité. J'ai aussi écrit des plugins pour les majeures plateformes (Magento, Prestashop, Demandware, ...) afin de faciliter l'intégration de nouveaux clients.",
+      "url": "https://www.nuukik.com",
+      "name": "Nuukik",
+      "location": "Villeneuve d'Ascq, France",
+      "position": "Lead developer",
+      "startDate": "2013-07-01",
+      "endDate": "2015-09-02",
+      "highlights": [
+        "Backend: Java, Spring",
+        "Data: Postgres, Elasticsearch",
+        "Processing: Kettle, Hadoop",
+        "Auth: Spring Security"
+      ]
+    },
+    {
+      "summary": "J'ai travaillé sur l'Oracle Service Bus (OSB) afin de permettre aux différents systèmes éxogènes de l'entreprise de communiquer. J'ai aussi pris part à l'équipe en charge d'un outil de monitoring maison de l'OSB afin d'améliorer la visibilité et la confiance de ce service.",
+      "url": "https://www.3suisses.fr",
+      "name": "3 Suisses",
+      "location": "Croix, France",
+      "position": "SOA developer",
+      "startDate": "2011-11-01",
+      "endDate": "2013-06-30",
+      "highlights": [
+        "Backend: Java, Spring",
+        "Data: Oracle",
+        "Processing: OSB"
+      ]
+    },
+    {
+      "summary": "Pour une bourse de fret Européenne, Je faisais partie de l'équipe backend. Travaillant principalement sur la scalabilité de la plateforme, j'ai participé à la couche d'accès aux données pour améliorer la pertinence et la rapidité des requêtes.",
+      "url": "https://www.worldline.com",
+      "name": "Atos Wordline",
+      "location": "Noyelles-les-Seclin, France",
+      "position": "Développeur backend junior",
+      "startDate": "2008-02-01",
+      "endDate": "2011-10-31",
+      "highlights": [
+        "Backend: Java",
+        "Data: MySql",
+        "Processing: ODI"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Conseil municipal de Bachy",
+      "url": "https://www.mairie-bachy.fr",
+      "summary": "Dans une ville de 1800 habitants, impliqué dans les sujets culturels",
+      "location": "Bachy",
+      "position": "Conseiller municipal",
+      "startDate": "2020-03-22"
+    },
+    {
+      "organization": "Ch'ti JUG",
+      "url": "https://www.chtijug.org",
+      "summary": "Ch'ti JUG est un Java User Group basé à Lille.<br/>Nous organisons une session par mois (avant la COVID-19), accueillant 70 à 200 participants, avec une base de 3000 membres.",
+      "location": "Lille",
+      "position": "Organisation support",
+      "startDate": "2011-04-01"
+    }
+  ],
+  "education": [
+    {
+      "startDate": "2003-09-01",
+      "endDate": "2007-08-31",
+      "area": "Informatique",
+      "studyType": "Ingénieur",
+      "institution": "Ecole des Mines de Douai"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Diplôme de donneur de sang - Insigne or (plus de 100 dons)",
+      "awarder": "Etablissement français du sang",
+      "date": "2021"
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Code quality",
+      "level": "",
+      "keywords": [
+        "Clean code",
+        "TDD"
+      ]
+    },
+    {
+      "name": "Mobile",
+      "level": "",
+      "keywords": [
+        "Flutter",
+        "UX",
+        "Fastlane"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": [
+        "Spring",
+        "Reactor"
+      ]
+    },
+    {
+      "name": "Data storage",
+      "level": "",
+      "keywords": [
+        "Postgres",
+        "Elasticsearch"
+      ]
+    },
+    {
+      "name": "Soft skills",
+      "level": "",
+      "keywords": [
+        "Autonome",
+        "Encadrement",
+        "Versatile",
+        "Bienveillant"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Lecture",
+      "keywords": [
+        "Manga",
+        "Science-fiction",
+        "Heroic fantasy"
+      ]
+    },
+    {
+      "name": "Menuiserie"
+    },
+    {
+      "name": "Pilotage sur circuit"
+    },
+    {
+      "name": "Jeux",
+      "keywords": [
+        "de société",
+        "CRPG",
+        "Hack'n'Slash"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
