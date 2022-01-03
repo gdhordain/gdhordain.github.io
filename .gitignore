@@ -129,3 +129,4 @@ dist
 # resume
 resume*.html
 resume*.pdf
+*.draft
