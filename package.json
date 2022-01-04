@@ -4,9 +4,9 @@
   "private": true,
   "version": "0.0.9",
   "scripts": {
-    "export-en-html": "resume export -r resume-gdhordain-en.json -t ./node_modules/jsonresume-theme-kendall index.html",
+    "export-en-html": "resume export -r resume-gdhordain-en.json -t ./node_modules/jsonresume-theme-kendall en.html",
     "export-en-pdf": "resume export -r resume-gdhordain-en.json -t ./node_modules/jsonresume-theme-kendall resume-gdhordain.pdf",
-    "export-fr-html": "resume export -r resume-gdhordain-fr.json -t ./node_modules/jsonresume-theme-kendall index-fr.html",
+    "export-fr-html": "resume export -r resume-gdhordain-fr.json -t ./node_modules/jsonresume-theme-kendall fr.html",
     "export-fr-pdf": "resume export -r resume-gdhordain-fr.json -t ./node_modules/jsonresume-theme-kendall cv-gdhordain.pdf"
   },
   "dependencies": {
