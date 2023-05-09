@@ -6,7 +6,7 @@
     "image": "https://gdhordain.github.io/resume.jpeg",
     "email": "gautier@dhordain.eu",
     "phone": "+33 (0)6 86 72 07 74",
-    "summary": "Je suis un développeur full stack ayant travaillé dans des environnements variés: de startups aux grandes entreprises, avec une cible B2C ou B2B, en présentiel ou à distance. J'ai occupé plusieurs postes, toujours dans le développement logiciel.<br/>Mon objectif ? Apporter de la plus-value aux utilisateurs des produits auxquels je participe.<br/>Je souhaite continuer à aider des entreprises à fournir la meilleure expérience sur application mobile.",
+    "summary": "Je suis un développeur full stack expérimenté ayant travaillé dans des environnements variés: de startups aux grandes entreprises, avec une cible B2C ou B2B, sur site ou à distance. J'ai occupé plusieurs postes, toujours dans le développement logiciel.<br/>Mon objectif ? Apporter de la plus-value aux utilisateurs des produits auxquels je participe.<br/>Je souhaite continuer à aider des entreprises à fournir la meilleure expérience, que ce soit avec des applications mobiles ou grâce à des APIs.",
     "location": {
       "address": "677 route nationale",
       "postalCode": "59830",
@@ -33,6 +33,21 @@
     ]
   },
   "work": [
+    {
+      "summary": "ADEO est le leader européen du bricolage et le 3ème acteur mondial du marché du bricolage. 1000 boutiques sont implantées dans 20 pays au service de 500 millions d'habitants et de professionnels.<br/>J'ai occupé le poste de tech lead au sein de l'équipe en charge des applications mobiles utilisées par les collaborateurs en magasin. Nous avons construit et exploité des applications mobiles écrites avec flutter ou android ainsi que leurs backends pour nos utilisateurs répartis dans 7 pays. J'apprécie donner aux membres de l'équipe les moyens de produire des applications atteignant nos exigences: UX, qualité, performance, ...",
+      "url": "https: //www.adeo.com",
+      "name": "ADEO",
+      "location": "Remote, Ronchin, France",
+      "position": "Tech lead",
+      "startDate": "2022-03-01",
+      "highlights": [
+        "Mobile: Flutter, Riverpod, UX, Fastlane, Android",
+        "Backend: Kotlin, Spring, Reactor",
+        "Data: MongoDB",
+        "CI: Github Actions",
+        "Deployment: Kubernetes, Turbine"
+      ]
+    },
     {
       "summary": "MooM est une plateforme dédiée à la seconde vie des biens de consommations: réparation, collecte, vente, don.<br/>J'ai travaillé sur la totalité de la stack: majoritairement sur l'application mobile, sans oublier le backend et les algorithmes de recherche. La découverte du framework Flutter a été une révélation.",
       "url": "https://www.moom.app",
@@ -109,7 +124,7 @@
       ]
     },
     {
-      "summary": "Pour une bourse de fret Européenne, Je faisais partie de l'équipe backend. Travaillant principalement sur la scalabilité de la plateforme, j'ai participé à la couche d'accès aux données pour améliorer la pertinence et la rapidité des requêtes.",
+      "summary": "Pour une bourse de fret Européenne, je faisais partie de l'équipe backend. Travaillant principalement sur la scalabilité de la plateforme, j'ai participé à la couche d'accès aux données pour améliorer la pertinence et la rapidité des requêtes.",
       "url": "https://www.worldline.com",
       "name": "Atos Wordline",
       "location": "Noyelles-les-Seclin, France",
@@ -127,15 +142,24 @@
     {
       "organization": "Conseil municipal de Bachy",
       "url": "https://www.mairie-bachy.fr",
+      "summary": "Dans une ville de 1800 habitants, impliqué dans les sujets culturels. Je gère la médiathèque municipale et la liaison avec le réseau \"Graines de Culture(s)\" de la communauté de communes.",
+      "location": "Bachy",
+      "position": "Adjoint au maire",
+      "startDate": "2022-12-09"
+    },
+    {
+      "organization": "Conseil municipal de Bachy",
+      "url": "https://www.mairie-bachy.fr",
       "summary": "Dans une ville de 1800 habitants, impliqué dans les sujets culturels",
       "location": "Bachy",
       "position": "Conseiller municipal",
-      "startDate": "2020-03-22"
+      "startDate": "2020-03-22",
+      "endDate": "2022-12-08"
     },
     {
       "organization": "Ch'ti JUG",
       "url": "https://www.chtijug.org",
-      "summary": "Ch'ti JUG est un Java User Group basé à Lille.<br/>Nous organisons une session par mois (avant la COVID-19), accueillant 70 à 200 participants, avec une base de 3000 membres.",
+      "summary": "Ch'ti JUG est un Java User Group basé à Lille.<br/>Nous organisons une session par mois, accueillant 70 à 200 participants, avec une base de 3000 membres.",
       "location": "Lille",
       "position": "Organisation support",
       "startDate": "2011-04-01"
@@ -197,10 +221,10 @@
       "name": "Soft skills",
       "level": "",
       "keywords": [
-        "Autonome",
+        "Autonomie",
         "Encadrement",
-        "Versatile",
-        "Bienveillant"
+        "Polyvalence",
+        "Bienveillance"
       ]
     }
   ],
